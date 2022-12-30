@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sachin-007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning full stack with frameworks
+- 💞️ I’m looking to collaborate on freelance OR projects
+- 📫 How to reach me sachinbachhav.org@gmail.com
 
 # 💫 About Me:
 I'm currently doing full stack with java and python<br>I'm currently learning full stack with every MVC architecture<br>I'm doing MCA at Sandip University Nashik<br>logic building with DSA C, Java with OOP's   
@@ -24,5 +24,4 @@ I'm currently doing full stack with java and python<br>I'm currently learning fu
 ---
 [![](https://visitcount.itsvg.in/api?id=sachin-007&icon=7&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
