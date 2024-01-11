@@ -5,7 +5,7 @@
 - 📫 How to reach me sachinbachhav.org@gmail.com
 
 # 💫 About Me:
-I'm currently doing full stack with java and python<br>I'm currently learning full stack with every MVC architecture<br>I'm doing MCA at Sandip University Nashik<br>logic building with DSA C, Java with OOP's   
+I'm currently doing full stack with java and MERN stack<br>I'm currently learning full stack with every MVC architecture<br>I'm doing MCA at Sandip University Nashik<br>logic building with DSA C, Java with OOP's   
 
 
 ## 🌐 Socials:
