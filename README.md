@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sachin-007
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning full stack with frameworks
-- 💞️ I’m looking to collaborate on freelance OR projects
-- 📫 How to reach me sachinbachhav.org@gmail.com
+- 💞️ I’m looking to for best company where i will skill get utilized
+- 📫 How to reach me sachinbachhav006@gmail.com
 
 # 💫 About Me:
 I'm currently doing full stack with java and MERN stack<br>I'm currently learning full stack with every MVC architecture<br>I'm doing MCA at Sandip University Nashik<br>logic building with DSA C, Java with OOP's   
