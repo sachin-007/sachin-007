@@ -9,7 +9,7 @@
 # 💫 About Me:
 - I'm currently doing full stack development with Java and MERN stack.
 - I am learning full stack development with various MVC architectures.
-- I'm pursuing an MCA at Sandip University, Nashik.
+-  🎓 I completed my **Bachelor of Computer Science** at CMCS, Nashik, in 2022 and completed my **MCA** (Master of Computer Applications) at Sandip University, Nashik, graduated in 2024.
 - 🌐 WebApp building using **J2EE**, **MERN**, and **PHP Laravel**.
 - 📱 Android App development using **JAVA** & **XML**.
 - 🔧 Advanced learning during CRM web development includes model globalization, helpers, job queues, webhooks, sync integration, API development, and integration.
