@@ -17,6 +17,10 @@
 ---
 
 # 😁 Latest Projects:
+
+## Major project of PHP Laravel ( Working ):
+- [Mokapen CRM](https://mokapen.com/en)
+
 ## PHP Laravel:
 - [Visualization Dashboard - Blackcoffer OPC Assignment](https://github.com/sachin-007/Blackcoffer-OPC--assignment-visualization-dashboard)  
 - [Content Block System with Trait](https://github.com/sachin-007/content-block-system-with-trait)
