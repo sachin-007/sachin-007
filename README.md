@@ -2,7 +2,8 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning full stack with frameworks
 - 💞️ I’m looking for the best company where my skills can be utilized
-- 📫 How to reach me: sachinbachhav006@gmail.com
+<!-- - 📫 How to reach me: sachinbachhav006@gmail.com -->
+
 
 ---
 
