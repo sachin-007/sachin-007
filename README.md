@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=180&section=header&text=Sachin%20Bachhav&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20%7C%20AI%20%26%20Agentic%20Systems%20%7C%20MCP&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D1117%2C100%3A58A6FF&height=180&section=header&text=Sachin%20Bachhav&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20-%20AI%20Agentic%20Systems%20-%20MCP&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -61,11 +61,6 @@ Actively building AI-powered applications and integrating AI into real-world bus
   </a>
 </p>
 
-<details>
-<summary><strong>Badges view</strong></summary>
-
-<br/>
-
 **Backend**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -92,8 +87,6 @@ Actively building AI-powered applications and integrating AI into real-world bus
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</details>
 
 **APIs & Integrations:** REST · OAuth 2.0 · Webhooks · Microsoft Graph / 365 · Google APIs · WhatsApp Business API · Shopify · Brevo · Mailchimp · MailerLite · SMS APIs
 
@@ -149,8 +142,8 @@ Interactive data visualization dashboard with PHP/Laravel and modern frontend.
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sachin-007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-007&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=sachin-007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sachin-007&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
 </div>
 
 <br/>
@@ -170,7 +163,7 @@ Interactive data visualization dashboard with PHP/Laravel and modern frontend.
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachin-007&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=sachin-007&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
 </div>
 
 ---
@@ -190,5 +183,5 @@ Interactive data visualization dashboard with PHP/Laravel and modern frontend.
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A58A6FF%2C100%3A0D1117&height=100&section=footer" width="100%" alt="Footer" />
 </div>
